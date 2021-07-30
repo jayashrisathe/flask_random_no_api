@@ -26,22 +26,3 @@ http://127.0.0.1:8080/get_rand_no/?from=10&to=30
 
 
 
-Data fabric 
-
-Version 6.1 
-
-Persistent storage
-
-NFS 
-
-Wells Fargo requirement for hardware 
-
-Ecp platform integrate with MapR 
-
-Two servers: 
-
-Apolo 
-
-Network connectivity: cisco devices 
-TOR
-
